@@ -1,0 +1,68 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+}
+header{
+  background-image: url(../img/bg_hero6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-bottom: 2rem;
+  padding-top: 30rem;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+}
+
+h4{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+
+}
+i{
+  color: #BA5C23;
+}
+.gris{
+  background-color: #F5F6F8;
+}
+
+.logo {
+  font-family: 'Lora', serif;
+  color: #BA5C23;
+}
+ .linea {
+   width: 25%;
+   background-color: #ffffff;
+   height: 1px;
+ }
+
+ .linea-2 {
+   width: 10%;
+   background-color: #BA5C23;
+   height: 1px;
+ }
+
+.bio {
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+  color: #BA5C23;
+}
+
+.text-general {
+  font-size: 0.8em;
+  color: #373A3C;
+}
+
+.card-title {
+  font-family: 'Lora', serif;
+  color: #BA5C23;
+}
+
+.work {
+  width: 50%;
+  height: 50%;
+  fill: #BA5C23;
+}
